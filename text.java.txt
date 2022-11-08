@@ -1,0 +1,10 @@
+public class Test{
+
+public int sum()
+{
+
+//here some addition opertaion take place
+
+return 0;
+}
+}
